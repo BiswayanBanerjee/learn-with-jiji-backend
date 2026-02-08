@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.local
+.env.development
+.env.production
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# build output
+dist/
+build/
+
+# editor folders
+.vscode/
+.idea/
+
+# Supabase local files (if any)
+.supabase/
+
+# temporary files
+tmp/
+temp/
