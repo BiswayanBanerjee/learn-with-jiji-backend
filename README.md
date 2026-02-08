@@ -189,7 +189,7 @@ Public read policy created for resources table.
 
 ## Demo
 
-Working demo video: <add link>
+Working demo video: https://drive.google.com/file/d/1X0Tq5VjRwu9hbh6S229xW4VT1E_MAE5Z/view?usp=sharing
 
 ---
 
