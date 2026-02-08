@@ -49,7 +49,7 @@ supabase/
 ### 1. Clone repository
 
 ```
-git clone <your-github-repo-link>
+git clone https://github.com/BiswayanBanerjee/learn-with-jiji-backend.git
 cd learn-with-jiji-backend
 ```
 
@@ -195,6 +195,6 @@ Working demo video: <add link>
 
 ## Author
 
-Name: <your name>
-LinkedIn: <link>
-GitHub: <link>
+Name: Biswayan Banerjee
+LinkedIn: https://www.linkedin.com/in/biswayanbanerjee/
+GitHub: https://github.com/BiswayanBanerjee
